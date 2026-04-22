@@ -27,8 +27,3 @@ This project provides a clean and professional interface for managing an online 
 - Bootstrap 5
 - Bootstrap Icons
 - Google Fonts (DM Sans & Space Mono)
-
----
-
-## 📂 Project Structure
-
